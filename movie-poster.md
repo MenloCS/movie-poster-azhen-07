@@ -131,15 +131,15 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 ## Step 5: Reflection
 *(Commit message: "Completed reflection")*
 
-**How did your vision evolve?**  
+**How did your vision evolve?** The colors changed over time.
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
-
+The color changed. The format and background stayed the same.
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+The choices, like where brightbill is, and the pov of the camera.
 
 **What would you do differently next time?**  
-
+I would move the animals differently and change their formation.
 
 ---
 
