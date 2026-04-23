@@ -68,17 +68,17 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+make a movie poster for the movie the wild robot, this time with brightbill in the middle standing all proud with his wings open, brightbill at this time of the poster is fully grown. there is nature in the background and his friends are around him. the robot is in the background, proud of him. the pov is from the ground, facing upwards at brightbill. sort of like a 0.5 shot.
+- **What worked:** the look of it
+- **What didn't work:** the color
+- **What I'll change for next attempt:** make the colors more natural
 
 **Attempt 2:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:** 
+make the main color from this a little less yellow, more just like nature colors
+- **What worked:** the colors a little better
+- **What didn't work:** still not wanted color
+- **What I'll change for next attempt:** make the background a little more triumphant but still subtle
 
 ---
 
