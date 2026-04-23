@@ -89,18 +89,19 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+make it a little more triumphant colored, i really like the second color a lot though. just make it a little more triumphant
+- **What worked:** the color
+- **What didn't work:** worked well 
+- **What I'll change for next attempt:** move animals farther
 
 **Attempt 4:**  
 - **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
+move the animals farther away from brightbilll, they are still visible but farther, to give brightbill the spotlight
+- **What worked:** animals farther
+- **What didn't work:** didn't like it
 
 **Final AI Image Selected:** (Which attempt? Why?)  
+3. I liked the color and the placement of everything.
 
 ---
 
