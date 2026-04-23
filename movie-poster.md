@@ -29,33 +29,32 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:**
+- **Movie Title:** The Wild Robot
+- **Why I chose this movie:** It was nicely animated
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** freedom
 
 **Essential Visual Element:**  
-What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+What ONE image, object, or visual MUST appear on your poster?
+- **Essential element:** Brightbill
+- **Why this element:** Main character
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** Other robots
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Yellow
+- **Accent color(s):** Green, brown
+- **Overall mood:** (warm/bright)  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
+- [ ] Close-up (face/detail)
+- [V] Ground up 0.5 shot  
 - [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
 - [ ] Character collage  
 
 - **Focal point description:**  
