@@ -146,9 +146,9 @@ I would move the animals differently and change their formation.
 ## Final Checklist
 
 Before submitting, make sure your repo contains:
-- [ ] This completed `movie-poster-project.md` file  
-- [ ] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
-- [ ] At least 5 commits showing your progress  
+- [V] This completed `movie-poster-project.md` file  
+- [V] Your final poster image (`final-poster.jpg` or `final-poster.png`)  
+- [V] At least 5 commits showing your progress  
 
 ---
 
